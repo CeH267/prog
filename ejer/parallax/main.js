@@ -12,4 +12,4 @@ WebGLSampler.from("#txt", {
     x: 350
 });
 
-WebGLSampler.from
+WebGLSampler.froml
