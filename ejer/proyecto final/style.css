@@ -1,0 +1,99 @@
+.fonth
+{
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;    
+}
+
+
+    
+.container
+{
+    text-align: center;
+    width: 300px;
+    display: flex;
+    
+}
+
+ol
+{
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    padding: 5;
+}
+
+li
+{
+    text-align: right;
+}
+
+
+.dayName
+{
+    background: rgba(199, 195, 195, 0.712);
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+.firstDay
+{
+    grid-column-start: 7;
+}
+
+.firstDayF
+{
+    grid-column-start: 3;
+}p
+
+.firstDayM
+{
+    grid-column-start: 3;
+}
+
+.firstDayA
+{
+    grid-column-start: 6;
+}
+
+.firstDayMa
+{
+    grid-column-start: 1;
+}
+
+.firstDayJn
+{
+    grid-column-start: 4;
+}
+
+.firstDayJl
+{
+    grid-column-start: 6;
+}
+
+.firstDayAg
+{
+    grid-column-start: 2;
+}
+
+.firstDayS
+{
+    grid-column-start: 5;
+}
+
+.firstDayO
+{
+    grid-column-start: 7;
+}
+
+.firstDayN
+{
+    grid-column-start: 3;
+}
+
+.firstDayD
+{
+    grid-column-start: 5;
+}
